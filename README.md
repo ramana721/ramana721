@@ -51,9 +51,11 @@
 <!-- Visitor Count -->
 <br/>
 <h4 align="left">Visitor Count</h4>
-<p align="left">
+<!-- <p align="left">
   <img src="https://profile-counter.glitch.me/{ramana721}/count.svg" alt="Visitor Count" />
-</p>
+</p> -->
+<!-- Updating the Visitor Count Code, since the existing profile counter server is no longer working. -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramana721&label=Profile%20Views&color=0e75b6&style=flat" alt="ramana721" /> </p>
 
      
  <!--![Visitor Count](https://profile-counter.glitch.me/{ramana721}/count.svg)-->
